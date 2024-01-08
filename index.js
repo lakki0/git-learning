@@ -6,4 +6,4 @@ function Hello(){
 
 Hello();
 
-console.log("Finish");
+console.log("Finish the index file code");
