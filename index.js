@@ -5,3 +5,5 @@ function Hello(){
 }
 
 Hello();
+
+console.log("Finish");
